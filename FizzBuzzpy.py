@@ -7,3 +7,5 @@ for num in range(0, 100):
     #Check if num is divisble by 3
     if num % 3 == 0:
         print("Fizz")
+    else:
+        print(num)
